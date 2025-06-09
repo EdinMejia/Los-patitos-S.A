@@ -1,7 +1,7 @@
 public class HolaMundo {
     public static void main(String[] args) {
         // Imprime un saludo
-        System.out.println("Hola, mundo!");
+        System.out.println("Hola, mundo en 3d!");
 
         // Declara dos números
         int numero1 = 6;
