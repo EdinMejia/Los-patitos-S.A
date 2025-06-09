@@ -2,6 +2,7 @@ public class HolaMundo {
     public static void main(String[] args) {
         // Imprime un saludo
         System.out.println("Hola, mundo en 3d!");
+        System.out.println("Hola, mundo en 4d!");
 
         // Declara dos números
         int numero1 = 6;
