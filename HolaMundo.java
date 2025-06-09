@@ -4,8 +4,8 @@ public class HolaMundo {
         System.out.println("Hola, mundo!");
 
         // Declara dos números
-        int numero1 = 5;
-        int numero2 = 7;
+        int numero1 = 6;
+        int numero2 = 3;
 
         // Suma los números
         int suma = numero1 + numero2;
